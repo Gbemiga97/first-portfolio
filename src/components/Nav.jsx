@@ -23,7 +23,6 @@ const Nav = () => {
              activeClass='active'
              smooth={true}
              spy={true}
-             offset={-200}
              to='about'
               className='cursor-pointer w-[60px] h-[60px] flex items-center justify-center'>
               <BiUser />
@@ -32,7 +31,6 @@ const Nav = () => {
              activeClass='active'
              smooth={true}
              spy={true}
-             offset={-200}
              to='services'
               className='cursor-pointer w-[60px] h-[60px] flex  items-center justify-center'>
               <BsClipboardData />
@@ -41,7 +39,6 @@ const Nav = () => {
              activeClass='active'
              smooth={true}
              spy={true}
-             offset={-200}
              to='work'
               className='cursor-pointer w-[60px] h-[60px] flex items-center justify-center'>
               <BsBriefcase />
@@ -50,7 +47,6 @@ const Nav = () => {
              activeClass='active'
              smooth={true}
              spy={true}
-             offset={-200}
              to='contact'
               className='cursor-pointer w-[60px] h-[60px] flex items-center justify-center'>
               <BsChatSquareText />
