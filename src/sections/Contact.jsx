@@ -1,8 +1,14 @@
+import { motion } from "framer-motion"
+
 
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <section id="contact" className="section">
+      <div className="container mx-auto">
+        div
+      </div>
+    </section>
   )
 }
 
